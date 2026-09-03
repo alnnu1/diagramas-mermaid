@@ -15,8 +15,8 @@ graph TD
     classDef secureZone fill:#bbf,stroke:#333,stroke-width:2px;
     
     %% Actores y Componentes
-    Usuario["🌐 Usuario (Navegador/App)"] -->|1. Envía Credenciales (HTTPS)| API["⚙️ API Gateway / Backend"]
-    Admin["👨‍💻 Administrador de Red"] -->|5. Mantenimiento (SSH)| BD[("🗄️ Base de Datos SQL")]
+    Usuario["🌐 Usuario (Navegador/App)"] -->|"1. Envía Credenciales (HTTPS)"| API["⚙️ API Gateway / Backend"]
+    Admin["👨‍💻 Administrador de Red"] -->|"5. Mantenimiento (SSH)"| BD[("🗄️ Base de Datos SQL")]
     
     API -->|2. Consulta / Guarda Usuario| BD
     API -->|3. Valida Token| Auth["🔑 Servicio de Auth Externo (OAuth)"]
