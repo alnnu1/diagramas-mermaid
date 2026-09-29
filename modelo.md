@@ -58,4 +58,4 @@ A medida que el equipo de desarrollo escribe el código y configura la red, debe
 - [ ] Implementar Rate Limiting en la API.
 - [ ] Configurar las reglas de Firewall (Security Groups) para aislar la Base de Datos.
 
-Prueba: 1 PULL request antes de hacer merging
+Prueba: 1 PULL request antes de hacer merging version 2
