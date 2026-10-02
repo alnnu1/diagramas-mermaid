@@ -61,3 +61,9 @@ A medida que el equipo de desarrollo escribe el código y configura la red, debe
 Prueba: 1 PULL request antes de hacer merging version 2
 
 Prueba: 2 PULL request despues de merging
+
+prueba: 3 rechazada el merging
+
+prueba 4
+
+prueba 5
